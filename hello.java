@@ -1,3 +1,10 @@
+class SriniDemo
+{
+  public void logic()
+   {
+	
+    }
+}
 class Srini
 {
   public static void main(String... args)
